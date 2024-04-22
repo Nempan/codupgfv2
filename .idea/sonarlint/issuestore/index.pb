@@ -31,3 +31,15 @@ A
 src/upgft8p8.java,b\e\be70f8a8e6c627f4f82fe5c511edc0244f52a4cc
 A
 src/upgft8p9.java,3\d\3de0b4cc9ea7ec660fa4d814438d729e8f831b55
+B
+src/upgft8p10.java,7\0\7011c5e124224cc904df2c998dd54b154fcb9989
+A
+src/upgft9p4.java,a\4\a45ff96e405a18b01bb43d7e60c001ed1490c209
+A
+src/upgft9p1.java,a\0\a0f78e0b4631cba817eb2f6f54c70bf10e4d86e5
+B
+src/upgft11p1.java,1\b\1b048c669d4151de7fc9990995dfa65a3892b887
+@
+src/yatzy30.java,6\4\64339d49d3ae27e0878caf750ce0806654ed425a
+@
+src/Yatzy30.java,a\a\aa8c51662d55f21403432dde1d63ecf57fbc7a0e
