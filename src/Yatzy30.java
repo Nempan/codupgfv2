@@ -122,7 +122,7 @@ class Player {
         System.out.println("Du förlorade " + damage + " liv. Liv kvar: " + health);
     }
 
-    // Hämta spelarens hälsa
+    // Hämta spelarens liv
     public int getHealth() {
         return health;
     }
